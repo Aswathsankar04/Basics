@@ -1,10 +1,7 @@
 import java.util.Scanner;
 import java.lang.System;
 class StringCompare {
-
-    
-
-    public static void main(String args[])
+ public static void main(String args[])
     {
         Scanner asw=new Scanner(System.in);
         System.out.print("Enter a String:");
